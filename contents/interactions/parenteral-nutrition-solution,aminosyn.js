@@ -1,0 +1,1 @@
+interactions["parenteral-nutrition-solution,aminosyn"]=["parenteral-nutrition-solution,aminosyn", {"a": {"amersham indium (111in) oxine": "2"}, "i": {"indium oxyquinoline in-111": "2"}}];

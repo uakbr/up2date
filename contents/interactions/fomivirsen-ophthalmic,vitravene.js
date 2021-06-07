@@ -1,0 +1,1 @@
+interactions["fomivirsen-ophthalmic,vitravene"]=["fomivirsen-ophthalmic,vitravene", {"c": {"cidofovir": "2"}, "v": {"vistide": "2"}}];

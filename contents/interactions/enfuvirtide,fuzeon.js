@@ -1,0 +1,11 @@
+interactions["enfuvirtide,fuzeon"]=["enfuvirtide,fuzeon", {"a": {"accesspak for hiv pep expanded with kaletra": "1"}, "e": {"emtricitabine/lopinavir/ritonavir/tenofovir": "1"}, "f": {"fortovase": "1"}, "i": {"invirase": "1",
+ "isoniazid/pyrazinamide/rifampin": "1",
+ "isonarif": "1",
+ "isoniazid/rifampin": "1"}, "k": {"kaletra": "1"}, "l": {"lopinavir/ritonavir": "1"}, "n": {"norvir soft gelatin": "1",
+ "norvir": "1"}, "s": {"saquinavir": "1"}, "r": {"ritonavir": "1",
+ "rifadin iv": "1",
+ "rifater": "1",
+ "rifamate": "1",
+ "rifampin": "1",
+ "rifadin": "1",
+ "rimactane": "1"}}];

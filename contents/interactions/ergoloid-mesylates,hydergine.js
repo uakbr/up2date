@@ -1,0 +1,1 @@
+interactions["ergoloid-mesylates,hydergine"]=["ergoloid-mesylates,hydergine", {"i": {"ioflupane i 123": "2"}, "d": {"datscan": "2"}}];

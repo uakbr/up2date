@@ -1,0 +1,10 @@
+interactions["multivitamin,folgard"]=["multivitamin,folgard", {"a": {"adrucil": "3",
+ "anisindione": "2",
+ "alli": "1"}, "c": {"calcitriol": "3",
+ "capecitabine": "3",
+ "coumadin": "2",
+ "calcijex": "3",
+ "colesevelam": "2"}, "d": {"doxercalciferol": "3",
+ "dicumarol": "2"}, "f": {"fluorouracil": "3"}, "h": {"hectorol": "3"}, "j": {"jantoven": "2"}, "m": {"miradon": "2"}, "o": {"orlistat": "1"}, "p": {"paricalcitol": "3"}, "r": {"rocaltrol": "3"}, "w": {"welchol": "2",
+ "warfarin": "2"}, "x": {"xenical": "1",
+ "xeloda": "3"}, "z": {"zemplar": "3"}}];

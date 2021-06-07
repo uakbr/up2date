@@ -1,0 +1,1 @@
+interactions["edetate-disodium-edta,disotate"]=["edetate-disodium-edta,disotate", {"p": {"pimozide": "3"}, "z": {"ziprasidone": "3"}, "o": {"orap": "3"}, "g": {"geodon": "3"}}];

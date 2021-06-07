@@ -1,0 +1,1 @@
+interactions["hexachlorophene-topical"]=["hexachlorophene-topical", {"8": {"8-mop": "2"}, "m": {"methoxsalen": "2"}, "u": {"uvadex": "2"}, "o": {"oxsoralen-ultra": "2"}}];

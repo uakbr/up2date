@@ -1,0 +1,1 @@
+interactions["miconazole-topical"]=["miconazole-topical", {"a": {"anisindione": "3"}, "c": {"coumadin": "3"}, "d": {"dicumarol": "3"}, "j": {"jantoven": "3"}, "m": {"miradon": "3"}, "w": {"warfarin": "3"}}];

@@ -1,0 +1,1 @@
+interactions["miglustat"]=["miglustat", {"i": {"imiglucerase": "2"}, "c": {"cerezyme": "2"}}];

@@ -1,0 +1,1 @@
+interactions["pegaptanib-ophthalmic,macugen"]=["pegaptanib-ophthalmic,macugen", {"p": {"pegloticase": "2"}, "k": {"krystexxa": "2"}}];

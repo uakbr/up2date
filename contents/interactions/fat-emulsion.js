@@ -1,0 +1,1 @@
+interactions["fat-emulsion"]=["fat-emulsion", {"a": {"amersham indium (111in) oxine": "2"}, "i": {"indium oxyquinoline in-111": "2"}}];

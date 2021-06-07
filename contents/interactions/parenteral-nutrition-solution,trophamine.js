@@ -1,0 +1,1 @@
+interactions["parenteral-nutrition-solution,trophamine"]=["parenteral-nutrition-solution,trophamine", {"a": {"amersham indium (111in) oxine": "2"}, "i": {"indium oxyquinoline in-111": "2"}}];

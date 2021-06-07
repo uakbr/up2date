@@ -1,0 +1,1 @@
+interactions["glatiramer"]=["glatiramer", {"t": {"tysabri": "3"}, "n": {"natalizumab": "3"}}];

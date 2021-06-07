@@ -1,0 +1,1 @@
+interactions["unoprostone-ophthalmic"]=["unoprostone-ophthalmic", {"b": {"bimatoprost topical": "2"}, "l": {"latisse": "2"}}];

@@ -1,0 +1,2 @@
+interactions["meclocycline-sulfosalicylate-topical,meclan"]=["meclocycline-sulfosalicylate-topical,meclan", {"a": {"aminolevulinic acid topical": "2"}, "m": {"metvixia": "2",
+ "methyl aminolevulinate topical": "2"}, "l": {"levulan kerastick": "2"}}];

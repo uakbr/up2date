@@ -1,0 +1,1 @@
+interactions["cromolyn,intal"]=["cromolyn,intal", {"i": {"insulin inhalation, rapid acting": "2"}, "e": {"exubera": "2"}}];

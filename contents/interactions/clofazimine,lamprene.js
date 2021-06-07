@@ -1,0 +1,1 @@
+interactions["clofazimine,lamprene"]=["clofazimine,lamprene", {"a": {"amersham indium (111in) oxine": "2"}, "i": {"indium oxyquinoline in-111": "2"}}];

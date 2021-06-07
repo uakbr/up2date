@@ -1,0 +1,1 @@
+interactions["travoprost-ophthalmic,travatan"]=["travoprost-ophthalmic,travatan", {"b": {"bimatoprost topical": "2"}, "l": {"latisse": "2"}}];

@@ -1,0 +1,1 @@
+interactions["dornase-alfa,pulmozyme"]=["dornase-alfa,pulmozyme", {"i": {"insulin inhalation, rapid acting": "2"}, "e": {"exubera": "2"}}];

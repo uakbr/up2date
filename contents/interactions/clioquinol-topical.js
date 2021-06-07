@@ -1,0 +1,1 @@
+interactions["clioquinol-topical"]=["clioquinol-topical", {"s": {"sabril": "3"}, "v": {"vigabatrin": "3"}}];

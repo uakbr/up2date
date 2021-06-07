@@ -1,0 +1,1 @@
+interactions["sulfacetamide-sodium-ophthalmic,cetamide"]=["sulfacetamide-sodium-ophthalmic,cetamide", {"s": {"silver nitrate ophthalmic": "2"}}];

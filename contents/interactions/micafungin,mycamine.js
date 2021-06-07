@@ -1,0 +1,13 @@
+interactions["micafungin,mycamine"]=["micafungin,mycamine", {"a": {"adalat": "1",
+ "afeditab cr": "1",
+ "adalat cc": "1"}, "b": {"basic vitamins brewers yeast": "1",
+ "brewer's yeast": "1"}, "i": {"itraconazole": "1"}, "m": {"mason vitamins brewers yeast": "1",
+ "marlex brewers yeast": "1",
+ "major brewers yeast": "1"}, "n": {"nifedical xl": "1",
+ "natures naturals brewers yeast": "1",
+ "natures bounty brewers yeast": "1",
+ "nifediac cc": "1",
+ "nifedipine": "1"}, "p": {"procardia": "1",
+ "procardia xl": "1"}, "s": {"sirolimus": "2",
+ "sporanox pulsepak": "1",
+ "sporanox": "1"}, "r": {"rapamune": "2"}}];

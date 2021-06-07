@@ -1,0 +1,13 @@
+interactions["resorcinol-topical"]=["resorcinol-topical", {"a": {"atralin": "2",
+ "avita": "2",
+ "altinac": "2"}, "c": {"clindamycin/tretinoin topical": "2"}, "f": {"fluocinolone/hydroquinone/tretinoin topical": "2"}, "m": {"mequinol/tretinoin topical": "2"}, "s": {"solage": "2",
+ "stievaa": "2",
+ "stie vaa forte": "2"}, "r": {"retin-a and renova": "2",
+ "retin-a": "2",
+ "retin a micro": "2",
+ "retisol-a": "2",
+ "refissa": "2",
+ "renova": "2"}, "t": {"tretinoin topical": "2",
+ "tri-luma": "2",
+ "tretin-x": "2"}, "v": {"veltin": "2",
+ "vitinoin": "2"}, "z": {"ziana": "2"}}];

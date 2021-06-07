@@ -1,0 +1,1 @@
+interactions["nedocromil"]=["nedocromil", {"i": {"insulin inhalation, rapid acting": "2"}, "e": {"exubera": "2"}}];
